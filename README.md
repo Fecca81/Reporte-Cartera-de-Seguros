@@ -1,8 +1,8 @@
-# Reporte-Cartera-de-Seguros #
+# Reporte Cartera de Seguros #
 Dashboard that measure the evolution of a insurenace contracts portfolio.
 (Dashboad in spanish)
 
-## Number of contracts evaluation. ##
+##_ Number of contracts evaluation. _##
 
 ### Images ###
 ![image](https://user-images.githubusercontent.com/98062992/185679062-c005362e-afa8-4fd9-aec0-d1e2cd6b5951.png)
