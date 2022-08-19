@@ -2,8 +2,6 @@
 Dashboard that measure the evolution of a insurenace contracts portfolio.
 (Dashboad in spanish)
 
-##_ Number of contracts evaluation. _##
-
 ### Images ###
 
 A fisrt look.
